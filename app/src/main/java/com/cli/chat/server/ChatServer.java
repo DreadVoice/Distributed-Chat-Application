@@ -1,3 +1,4 @@
+package com.cli.chat.server;
 // ChatServer.java
 import java.io.*;
 import java.net.*;
